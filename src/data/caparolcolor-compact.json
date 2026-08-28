@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Elsass 0",
+    "hex": "#724D53"
+  },
+  {
+    "name": "Elsass 12",
+    "hex": "#A47783"
+  },
+  {
+    "name": "Elsass 13",
+    "hex": "#C298A4"
+  },
+  {
+    "name": "Elsass 14",
+    "hex": "#D2B1BA"
+  },
+  {
+    "name": "Elsass 15",
+    "hex": "#DEC4CB"
+  },
+  {
+    "name": "Elsass 16",
+    "hex": "#E7D3D8"
+  },
+  {
+    "name": "Elsass 18",
+    "hex": "#F0E2E5"
+  },
+  {
+    "name": "Ara 0",
+    "hex": "#A24342"
+  },
+  {
+    "name": "Ara 12",
+    "hex": "#C56062"
+  },
+  {
+    "name": "Ara 13",
+    "hex": "#D98282"
+  },
+  {
+    "name": "Ara 14",
+    "hex": "#E49B9C"
+  },
+  {
+    "name": "Ara 15",
+    "hex": "#EBB1B2"
+  },
+  {
+    "name": "Ara 16",
+    "hex": "#F0C4C4"
+  },
+  {
+    "name": "Ara 18",
+    "hex": "#F4D9DA"
+  },
+  {
+    "name": "Parma 0",
+    "hex": "#8B4943"
+  },
+  {
+    "name": "Parma 12",
+    "hex": "#AF6F6B"
+  },
+  {
+    "name": "Parma 13",
+    "hex": "#C9918D"
+  },
+  {
+    "name": "Parma 14",
+    "hex": "#D8AAA7"
+  },
+  {
+    "name": "Parma 15",
+    "hex": "#E3BFBC"
+  },
+  {
+    "name": "Parma 16",
+    "hex": "#EACFCD"
+  },
+  {
+    "name": "Parma 18",
+    "hex": "#F2E1DF"
+  },
+  {
+    "name": "Madeira 0",
+    "hex": "#9A5640"
+  },
+  {
+    "name": "Madeira 12",
+    "hex": "#C57A58"
+  },
+  {
+    "name": "Madeira 13",
+    "hex": "#DB9875"
+  },
+  {
+    "name": "Madeira 14",
+    "hex": "#E7B090"
+  },
+  {
+    "name": "Madeira 15",
+    "hex": "#EEC2A5"
+  },
+  {
+    "name": "Madeira 16",
+    "hex": "#F2D2BB"
+  },
+  {
+    "name": "Madeira 18",
+    "hex": "#F5E1D2"
+  },
+  {
+    "name": "Sanddorn 0",
+    "hex": "#CE6540"
+  },
+  {
+    "name": "Sanddorn 12",
+    "hex": "#E28859"
+  },
+  {
+    "name": "Sanddorn 13",
+    "hex": "#ECA677"
+  },
+  {
+    "name": "Sanddorn 14",
+    "hex": "#F1BC92"
+  },
+  {
+    "name": "Sanddorn 15",
+    "hex": "#F4CDAA"
+  },
+  {
+    "name": "Sanddorn 16",
+    "hex": "#F7DAC0"
+  },
+  {
+    "name": "Sanddorn 18",
+    "hex": "#F7E7D6"
+  },
+  {
+    "name": "Terra 0",
+    "hex": "#916042"
+  },
+  {
+    "name": "Terra 12",
+    "hex": "#B7825B"
+  },
+  {
+    "name": "Terra 13",
+    "hex": "#CF9F77"
+  },
+  {
+    "name": "Terra 14",
+    "hex": "#DDB591"
+  },
+  {
+    "name": "Terra 15",
+    "hex": "#E5C5A6"
+  },
+  {
+    "name": "Terra 16",
+    "hex": "#EDD4BC"
+  },
+  {
+    "name": "Terra 18",
+    "hex": "#F1E2D2"
+  },
+  {
+    "name": "Aprikose 0",
+    "hex": "#CE7839"
+  },
+  {
+    "name": "Aprikose 12",
+    "hex": "#E1944B"
+  },
+  {
+    "name": "Aprikose 13",
+    "hex": "#F1B16A"
+  },
+  {
+    "name": "Aprikose 14",
+    "hex": "#F4C183"
+  },
+  {
+    "name": "Aprikose 15",
+    "hex": "#F6D09D"
+  },
+  {
+    "name": "Aprikose 16",
+    "hex": "#F6DBB2"
+  },
+  {
+    "name": "Aprikose 18",
+    "hex": "#F5E5CB"
+  },
+  {
+    "name": "Cognac 0",
+    "hex": "#BF7D43"
+  },
+  {
+    "name": "Cognac 12",
+    "hex": "#DEA360"
+  },
+  {
+    "name": "Cognac 13",
+    "hex": "#EABB7C"
+  },
+  {
+    "name": "Cognac 14",
+    "hex": "#F0CB96"
+  },
+  {
+    "name": "Cognac 15",
+    "hex": "#F3D8AE"
+  },
+  {
+    "name": "Cognac 16",
+    "hex": "#F4E1C1"
+  },
+  {
+    "name": "Cognac 18",
+    "hex": "#F3E9D5"
+  },
+  {
+    "name": "Mandarin 0",
+    "hex": "#DE953A"
+  },
+  {
+    "name": "Mandarin 12",
+    "hex": "#EEB058"
+  },
+  {
+    "name": "Mandarin 13",
+    "hex": "#F4C476"
+  },
+  {
+    "name": "Mandarin 14",
+    "hex": "#F7D291"
+  },
+  {
+    "name": "Mandarin 15",
+    "hex": "#F8DDAA"
+  },
+  {
+    "name": "Mandarin 16",
+    "hex": "#F7E4BD"
+  },
+  {
+    "name": "Mandarin 18",
+    "hex": "#F5EBD4"
+  },
+  {
+    "name": "Gobi 0",
+    "hex": "#BF8939"
+  },
+  {
+    "name": "Gobi 12",
+    "hex": "#DCAA56"
+  },
+  {
+    "name": "Gobi 13",
+    "hex": "#EAC176"
+  },
+  {
+    "name": "Gobi 14",
+    "hex": "#F0CF91"
+  },
+  {
+    "name": "Gobi 15",
+    "hex": "#F4DBA9"
+  },
+  {
+    "name": "Gobi 16",
+    "hex": "#F5E4BE"
+  },
+  {
+    "name": "Gobi 18",
+    "hex": "#F5EBD3"
+  },
+  {
+    "name": "Mais 0",
+    "hex": "#E3A332"
+  },
+  {
+    "name": "Mais 12",
+    "hex": "#F0C25E"
+  },
+  {
+    "name": "Mais 13",
+    "hex": "#F5D483"
+  },
+  {
+    "name": "Mais 14",
+    "hex": "#F6DD9D"
+  },
+  {
+    "name": "Mais 15",
+    "hex": "#F5E5B4"
+  },
+  {
+    "name": "Mais 16",
+    "hex": "#F5EAC6"
+  },
+  {
+    "name": "Mais 18",
+    "hex": "#F3EED8"
+  },
+  {
+    "name": "Canari 0",
+    "hex": "#EEB922"
+  },
+  {
+    "name": "Canari 12",
+    "hex": "#F8CC41"
+  },
+  {
+    "name": "Canari 13",
+    "hex": "#FBD966"
+  },
+  {
+    "name": "Canari 14",
+    "hex": "#F9DF80"
+  },
+  {
+    "name": "Canari 15",
+    "hex": "#F7E49C"
+  },
+  {
+    "name": "Canari 16",
+    "hex": "#F5E9B2"
+  },
+  {
+    "name": "Canari 18",
+    "hex": "#F3EDCC"
+  },
+  {
+    "name": "Ingwer 0",
+    "hex": "#BA973D"
+  },
+  {
+    "name": "Ingwer 12",
+    "hex": "#DCC06C"
+  },
+  {
+    "name": "Ingwer 13",
+    "hex": "#E9D690"
+  },
+  {
+    "name": "Ingwer 14",
+    "hex": "#EEE0A8"
+  },
+  {
+    "name": "Ingwer 15",
+    "hex": "#F0E7BC"
+  },
+  {
+    "name": "Ingwer 16",
+    "hex": "#F1ECCB"
+  },
+  {
+    "name": "Ingwer 18",
+    "hex": "#F1EFDC"
+  },
+  {
+    "name": "Limette 0",
+    "hex": "#A1AD2E"
+  },
+  {
+    "name": "Limette 12",
+    "hex": "#C6C852"
+  },
+  {
+    "name": "Limette 13",
+    "hex": "#DBD978"
+  },
+  {
+    "name": "Limette 14",
+    "hex": "#E4E395"
+  },
+  {
+    "name": "Limette 15",
+    "hex": "#ECEAAE"
+  },
+  {
+    "name": "Limette 16",
+    "hex": "#F0EEC2"
+  },
+  {
+    "name": "Limette 18",
+    "hex": "#F2F0D5"
+  },
+  {
+    "name": "Amazonas 0",
+    "hex": "#606843"
+  },
+  {
+    "name": "Amazonas 12",
+    "hex": "#899566"
+  },
+  {
+    "name": "Amazonas 13",
+    "hex": "#A6B182"
+  },
+  {
+    "name": "Amazonas 14",
+    "hex": "#B7C299"
+  },
+  {
+    "name": "Amazonas 15",
+    "hex": "#C9D2B0"
+  },
+  {
+    "name": "Amazonas 16",
+    "hex": "#D5DDC1"
+  },
+  {
+    "name": "Amazonas 18",
+    "hex": "#E2E7D5"
+  },
+  {
+    "name": "Odenwald 0",
+    "hex": "#415953"
+  },
+  {
+    "name": "Odenwald 12",
+    "hex": "#658C83"
+  },
+  {
+    "name": "Odenwald 13",
+    "hex": "#87AEA4"
+  },
+  {
+    "name": "Odenwald 14",
+    "hex": "#A1C3B9"
+  },
+  {
+    "name": "Odenwald 15",
+    "hex": "#B6D2CA"
+  },
+  {
+    "name": "Odenwald 16",
+    "hex": "#C9DFD8"
+  },
+  {
+    "name": "Odenwald 18",
+    "hex": "#DDEAE5"
+  },
+  {
+    "name": "Sardinien 0",
+    "hex": "#2E5B57"
+  },
+  {
+    "name": "Sardinien 12",
+    "hex": "#43988E"
+  },
+  {
+    "name": "Sardinien 13",
+    "hex": "#6BB9AE"
+  },
+  {
+    "name": "Sardinien 14",
+    "hex": "#8CCCC4"
+  },
+  {
+    "name": "Sardinien 15",
+    "hex": "#A8DAD3"
+  },
+  {
+    "name": "Sardinien 16",
+    "hex": "#BDE3DD"
+  },
+  {
+    "name": "Sardinien 18",
+    "hex": "#D6EDE8"
+  },
+  {
+    "name": "Donau 0",
+    "hex": "#2F5571"
+  },
+  {
+    "name": "Donau 12",
+    "hex": "#3E8EB2"
+  },
+  {
+    "name": "Donau 13",
+    "hex": "#64ACCD"
+  },
+  {
+    "name": "Donau 14",
+    "hex": "#84C0DC"
+  },
+  {
+    "name": "Donau 15",
+    "hex": "#A0D1E5"
+  },
+  {
+    "name": "Donau 16",
+    "hex": "#B8DCEB"
+  },
+  {
+    "name": "Donau 18",
+    "hex": "#CFE5EC"
+  },
+  {
+    "name": "Niagara 0",
+    "hex": "#445360"
+  },
+  {
+    "name": "Niagara 12",
+    "hex": "#678295"
+  },
+  {
+    "name": "Niagara 13",
+    "hex": "#88A3B4"
+  },
+  {
+    "name": "Niagara 14",
+    "hex": "#A3BAC9"
+  },
+  {
+    "name": "Niagara 15",
+    "hex": "#BACDD8"
+  },
+  {
+    "name": "Niagara 16",
+    "hex": "#CCDAE2"
+  },
+  {
+    "name": "Niagara 18",
+    "hex": "#DEE7EB"
+  },
+  {
+    "name": "Graphit 0",
+    "hex": "#494B4B"
+  },
+  {
+    "name": "Graphit 12",
+    "hex": "#7D8282"
+  },
+  {
+    "name": "Graphit 13",
+    "hex": "#A3A6A5"
+  },
+  {
+    "name": "Graphit 14",
+    "hex": "#B8BBB9"
+  },
+  {
+    "name": "Graphit 15",
+    "hex": "#CBCECC"
+  },
+  {
+    "name": "Graphit 16",
+    "hex": "#D8DAD8"
+  },
+  {
+    "name": "Graphit 18",
+    "hex": "#E6E7E5"
+  },
+  {
+    "name": "Schiefer 0",
+    "hex": "#4C4B48"
+  },
+  {
+    "name": "Schiefer 12",
+    "hex": "#6B6A63"
+  },
+  {
+    "name": "Schiefer 13",
+    "hex": "#8D8B81"
+  },
+  {
+    "name": "Schiefer 14",
+    "hex": "#A5A298"
+  },
+  {
+    "name": "Schiefer 15",
+    "hex": "#BCB9AF"
+  },
+  {
+    "name": "Schiefer 16",
+    "hex": "#CBC8C0"
+  },
+  {
+    "name": "Schiefer 18",
+    "hex": "#DEDCD5"
+  },
+  {
+    "name": "Kiesel 0",
+    "hex": "#454341"
+  },
+  {
+    "name": "Kiesel 12",
+    "hex": "#7F7D7A"
+  },
+  {
+    "name": "Kiesel 13",
+    "hex": "#A2A09C"
+  },
+  {
+    "name": "Kiesel 14",
+    "hex": "#B9B7B1"
+  },
+  {
+    "name": "Kiesel 15",
+    "hex": "#CCCAC5"
+  },
+  {
+    "name": "Kiesel 16",
+    "hex": "#D8D7D2"
+  },
+  {
+    "name": "Kiesel 18",
+    "hex": "#E6E5E2"
+  },
+  {
+    "name": "Meteor 0",
+    "hex": "#3E3C3B"
+  },
+  {
+    "name": "Meteor 12",
+    "hex": "#777372"
+  },
+  {
+    "name": "Meteor 13",
+    "hex": "#9D9895"
+  },
+  {
+    "name": "Meteor 14",
+    "hex": "#B7B2AF"
+  },
+  {
+    "name": "Meteor 15",
+    "hex": "#CAC6C3"
+  },
+  {
+    "name": "Meteor 16",
+    "hex": "#D7D5D2"
+  },
+  {
+    "name": "Meteor 18",
+    "hex": "#E5E4E2"
+  },
+  {
+    "name": "Mocca 0",
+    "hex": "#52433E"
+  },
+  {
+    "name": "Mocca 12",
+    "hex": "#84706B"
+  },
+  {
+    "name": "Mocca 13",
+    "hex": "#A8948E"
+  },
+  {
+    "name": "Mocca 14",
+    "hex": "#BEADA7"
+  },
+  {
+    "name": "Mocca 15",
+    "hex": "#CFC1BB"
+  },
+  {
+    "name": "Mocca 16",
+    "hex": "#DBD0CC"
+  },
+  {
+    "name": "Mocca 18",
+    "hex": "#E7E1DD"
+  },
+  {
+    "name": "Umbrien 0",
+    "hex": "#54443A"
+  },
+  {
+    "name": "Umbrien 12",
+    "hex": "#8B7567"
+  },
+  {
+    "name": "Umbrien 13",
+    "hex": "#AE9A8B"
+  },
+  {
+    "name": "Umbrien 14",
+    "hex": "#C5B3A6"
+  },
+  {
+    "name": "Umbrien 15",
+    "hex": "#D5C7BC"
+  },
+  {
+    "name": "Umbrien 16",
+    "hex": "#E0D6CD"
+  },
+  {
+    "name": "Umbrien 18",
+    "hex": "#EAE4DE"
+  },
+  {
+    "name": "Nutria 0",
+    "hex": "#695444"
+  },
+  {
+    "name": "Nutria 12",
+    "hex": "#957C66"
+  },
+  {
+    "name": "Nutria 13",
+    "hex": "#B59C85"
+  },
+  {
+    "name": "Nutria 14",
+    "hex": "#C6B29C"
+  },
+  {
+    "name": "Nutria 15",
+    "hex": "#D4C4B1"
+  },
+  {
+    "name": "Nutria 16",
+    "hex": "#E0D4C5"
+  },
+  {
+    "name": "Nutria 18",
+    "hex": "#EAE2D8"
+  },
+  {
+    "name": "Marone 0",
+    "hex": "#71513D"
+  },
+  {
+    "name": "Marone 12",
+    "hex": "#A27E65"
+  },
+  {
+    "name": "Marone 13",
+    "hex": "#BF9E84"
+  },
+  {
+    "name": "Marone 14",
+    "hex": "#D1B59F"
+  },
+  {
+    "name": "Marone 15",
+    "hex": "#DCC7B3"
+  },
+  {
+    "name": "Marone 16",
+    "hex": "#E5D4C6"
+  },
+  {
+    "name": "Marone 18",
+    "hex": "#EEE3D9"
+  },
+  {
+    "name": "Havanna 0",
+    "hex": "#7B5C40"
+  },
+  {
+    "name": "Havanna 12",
+    "hex": "#A8835F"
+  },
+  {
+    "name": "Havanna 13",
+    "hex": "#C3A17E"
+  },
+  {
+    "name": "Havanna 14",
+    "hex": "#D2B493"
+  },
+  {
+    "name": "Havanna 15",
+    "hex": "#DFC7AC"
+  },
+  {
+    "name": "Havanna 16",
+    "hex": "#E7D5BF"
+  },
+  {
+    "name": "Havanna 18",
+    "hex": "#EEE3D5"
+  },
+  {
+    "name": "Savanne 0",
+    "hex": "#715E41"
+  },
+  {
+    "name": "Savanne 12",
+    "hex": "#AA8F65"
+  },
+  {
+    "name": "Savanne 13",
+    "hex": "#C9AF86"
+  },
+  {
+    "name": "Savanne 14",
+    "hex": "#D8C4A0"
+  },
+  {
+    "name": "Savanne 15",
+    "hex": "#E2D3B6"
+  },
+  {
+    "name": "Savanne 16",
+    "hex": "#E8DDC6"
+  },
+  {
+    "name": "Savanne 18",
+    "hex": "#EFE9D9"
+  },
+  {
+    "name": "Muskat 0",
+    "hex": "#685A49"
+  },
+  {
+    "name": "Muskat 12",
+    "hex": "#9B8A72"
+  },
+  {
+    "name": "Muskat 13",
+    "hex": "#BCAC92"
+  },
+  {
+    "name": "Muskat 14",
+    "hex": "#CEC0A9"
+  },
+  {
+    "name": "Muskat 15",
+    "hex": "#DAD0BD"
+  },
+  {
+    "name": "Muskat 16",
+    "hex": "#E4DDCE"
+  },
+  {
+    "name": "Muskat 18",
+    "hex": "#EDE9DF"
+  },
+  {
+    "name": "Blau Ava",
+    "hex": "#29476E"
+  },
+  {
+    "name": "Dunkelbraun Ava",
+    "hex": "#584039"
+  },
+  {
+    "name": "Gelb Ava",
+    "hex": "#FBC800"
+  },
+  {
+    "name": "Grün Ava",
+    "hex": "#076151"
+  },
+  {
+    "name": "Grüngelb Ava",
+    "hex": "#F2D916"
+  },
+  {
+    "name": "Magenta Ava",
+    "hex": "#8F395D"
+  },
+  {
+    "name": "Ocker Ava",
+    "hex": "#B17C3D"
+  },
+  {
+    "name": "Orange Ava",
+    "hex": "#E8542A"
+  },
+  {
+    "name": "Rot Ava",
+    "hex": "#AF3138"
+  },
+  {
+    "name": "Rotbraun Ava",
+    "hex": "#7D413A"
+  },
+  {
+    "name": "Schwarz Ava",
+    "hex": "#353536"
+  },
+  {
+    "name": "Umbra Ava",
+    "hex": "#5F523E"
+  },
+  {
+    "name": "Violett Ava",
+    "hex": "#48416C"
+  },
+  {
+    "name": "Weiss",
+    "hex": "#F1F1EC"
+  },
+  {
+    "name": "Weiss Ava",
+    "hex": "#F3F2EB"
+  }
+]
