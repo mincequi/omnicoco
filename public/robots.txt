@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mincequi.github.io/omnicoco/sitemap.xml

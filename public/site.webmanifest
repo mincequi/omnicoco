@@ -1,0 +1,17 @@
+{
+  "name": "Omnicoco Color Matcher",
+  "short_name": "Omnicoco",
+  "description": "Match RGB and HEX colors to RAL, Sto, Herbol, and Caparol paint systems.",
+  "start_url": "/omnicoco/",
+  "scope": "/omnicoco/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/omnicoco/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

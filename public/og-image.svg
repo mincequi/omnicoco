@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#050505"/>
+  <path fill="#ff5f45" d="M0 0h400v18H0z"/>
+  <path fill="#d8ff45" d="M400 0h400v18H400z"/>
+  <path fill="#7857ff" d="M800 0h400v18H800z"/>
+  <text x="70" y="150" fill="#f5f5ef" font-family="Arial,sans-serif" font-size="54" font-weight="700">omnicoco</text>
+  <text x="70" y="285" fill="#f5f5ef" font-family="Arial,sans-serif" font-size="76" font-weight="500">RGB &amp; HEX</text>
+  <text x="70" y="370" fill="#f5f5ef" font-family="Arial,sans-serif" font-size="76" font-weight="500">paint color matcher</text>
+  <text x="74" y="456" fill="#92928c" font-family="monospace" font-size="27">RAL · STO · HERBOL · CAPAROL</text>
+  <g transform="translate(795 145)">
+    <rect width="150" height="340" fill="#d8b28a"/>
+    <rect x="150" width="150" height="340" fill="#d0b084"/>
+    <text x="75" y="380" fill="#92928c" font-family="monospace" font-size="18" text-anchor="middle">INPUT</text>
+    <text x="225" y="380" fill="#92928c" font-family="monospace" font-size="18" text-anchor="middle">MATCH</text>
+  </g>
+</svg>

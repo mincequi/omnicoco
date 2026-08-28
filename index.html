@@ -3,11 +3,74 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#f1f0e9" />
-    <title>Omnicoco — RAL Classic color library</title>
+    <meta name="theme-color" content="#050505" />
+    <meta
+      name="description"
+      content="Free color converter for RAL Classic, StoColor System, Herbol, and CaparolColor Compact. Find nearest paint colors by HEX or RGB using CIEDE2000."
+    />
+    <meta
+      name="keywords"
+      content="RAL color converter, HEX to RAL, RGB to RAL, StoColor converter, Herbol colors, CaparolColor Compact, CIEDE2000, Delta E, facade colors"
+    />
+    <meta name="author" content="Omnicoco" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <link rel="canonical" href="https://mincequi.github.io/omnicoco/" />
+    <link rel="icon" href="/omnicoco/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/omnicoco/site.webmanifest" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Omnicoco" />
+    <meta property="og:title" content="Omnicoco — RGB and HEX paint color matcher" />
+    <meta
+      property="og:description"
+      content="Find the closest RAL, Sto, Herbol, and Caparol paint colors with perceptual Delta E comparison."
+    />
+    <meta property="og:url" content="https://mincequi.github.io/omnicoco/" />
+    <meta property="og:image" content="https://mincequi.github.io/omnicoco/og-image.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Omnicoco color matching interface" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Omnicoco — RGB and HEX paint color matcher" />
+    <meta
+      name="twitter:description"
+      content="Find the closest RAL, Sto, Herbol, and Caparol paint colors with perceptual Delta E comparison."
+    />
+    <meta name="twitter:image" content="https://mincequi.github.io/omnicoco/og-image.png" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Omnicoco",
+        "url": "https://mincequi.github.io/omnicoco/",
+        "applicationCategory": "DesignApplication",
+        "operatingSystem": "Any",
+        "isAccessibleForFree": true,
+        "description": "A free RGB and HEX converter that finds perceptually closest RAL Classic, StoColor System, Herbol Farbe & Architektur, and CaparolColor Compact colors.",
+        "featureList": [
+          "HEX and RGB paint color matching",
+          "CIEDE2000 Delta E comparison",
+          "RAL Classic color browser",
+          "StoColor System color browser",
+          "Herbol Farbe & Architektur color browser",
+          "CaparolColor Compact color browser",
+          "Facade color harmony preview"
+        ]
+      }
+    </script>
+
+    <title>Omnicoco — RGB and HEX to RAL, Sto, Herbol and Caparol</title>
   </head>
   <body>
     <div id="app"></div>
+    <noscript>
+      Omnicoco is a free RGB and HEX paint color converter for finding the closest RAL Classic,
+      StoColor System, Herbol Farbe & Architektur, and CaparolColor Compact colors using CIEDE2000.
+      JavaScript is required to use the interactive matcher.
+    </noscript>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

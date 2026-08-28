@@ -285,10 +285,6 @@
 
 <svelte:head>
   <title>Omnicoco — {pageTitle}</title>
-  <meta
-    name="description"
-    content="Browse, search, compare, and inspect RAL Classic, StoColor System, and Herbol architectural colors."
-  />
 </svelte:head>
 
 <header class="site-header">

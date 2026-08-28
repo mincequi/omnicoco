@@ -1,10 +1,29 @@
 # Omnicoco
 
-A lightweight, searchable browser for 216 four-digit RAL Classic colors, 796 five-digit
-StoColor System colors, 360 Herbol Farbe & Architektur colors, and 225 CaparolColor Compact
-colors.
+**A free RGB and HEX paint-color converter for architecture, facades, and design.**
 
-Live site: [mincequi.github.io/omnicoco](https://mincequi.github.io/omnicoco/)
+[Open Omnicoco](https://mincequi.github.io/omnicoco/)
+
+Enter a HEX or RGB value to find the perceptually closest color in each supported manufacturer
+system. Results use CIEDE2000 and show total Delta E plus lightness, chroma, and hue deviations.
+
+## Supported color systems
+
+- 216 RAL Classic colors
+- 796 StoColor System colors
+- 360 Herbol Farbe & Architektur colors
+- 225 CaparolColor Compact colors
+
+## Features
+
+- HEX-to-RAL and RGB-to-RAL matching
+- Closest Sto, Herbol, and Caparol alternatives
+- CIEDE2000 (Delta E 2000) comparison
+- Searchable compact color libraries
+- CIE L*a*b* range filtering
+- A/B color comparison
+- Facade, roof, and window color-harmony preview
+- No account, tracking, or server-side processing
 
 ## Development
 
