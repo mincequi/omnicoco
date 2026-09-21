@@ -153,10 +153,11 @@ export const caparolCompactColors: ColorEntry[] = (caparolCompactSource as Palet
 export const caparolFassadeA1Colors: ColorEntry[] = (caparolFassadeA1Source as PaletteColor[])
   .map((color) => {
     const rgb = hexToRgb(color.hex)
-    const family = color.name.replace(/\s+\d+$/i, '')
+    const displayName = color.name.replace(/^3D\s+/i, '')
+    const family = displayName.replace(/\s+\d+$/i, '')
 
     return {
-      code: `Caparol A1 ${color.name}`,
+      code: `Caparol A1 ${displayName}`,
       name: 'Fassade A1',
       hex: color.hex.toUpperCase(),
       rgb,
@@ -165,4 +166,3 @@ export const caparolFassadeA1Colors: ColorEntry[] = (caparolFassadeA1Source as P
       system: 'caparolA1' as const,
     }
   })
-  .sort((a, b) => a.code.localeCompare(b.code, undefined, { numeric: true }))
