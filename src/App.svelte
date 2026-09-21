@@ -2,6 +2,7 @@
   import { onMount, tick } from 'svelte'
   import {
     caparolCompactColors,
+    caparolFassadeA1Colors,
     hexToRgb,
     herbolColors,
     ralColors,
@@ -59,7 +60,8 @@
       (settings.system === 'ral' ||
         settings.system === 'sto' ||
         settings.system === 'herbol' ||
-        settings.system === 'caparol') &&
+        settings.system === 'caparol' ||
+        settings.system === 'caparolA1') &&
       isNumber('tileWidth', 25, 85) &&
       isNumber('labA', -128, 128) &&
       isNumber('labB', -128, 128) &&
@@ -131,6 +133,11 @@
       shortName: 'Caparol',
       colors: caparolCompactColors,
     },
+    caparolA1: {
+      name: 'Caparol Fassade A1',
+      shortName: 'Fassade A1',
+      colors: caparolFassadeA1Colors,
+    },
   }
   const activeColors = $derived(systems[system].colors)
   const systemName = $derived(systems[system].name)
@@ -195,7 +202,7 @@
     const term = query
       .trim()
       .toLowerCase()
-      .replace(/^(ral|sto|herbol|caparol)\s*/, '')
+      .replace(/^(ral|sto|herbol|caparol(?:\s+a1)?|a1)\s*/, '')
 
     return activeColors.filter((color) => {
       const distance = Math.hypot(color.lab.a - labA, color.lab.b - labB)
@@ -355,6 +362,12 @@
             aria-pressed={system === 'caparol'}
             onclick={() => selectSystem('caparol')}>Caparol</button
           >
+          <button
+            type="button"
+            class:active={system === 'caparolA1'}
+            aria-pressed={system === 'caparolA1'}
+            onclick={() => selectSystem('caparolA1')}>A1</button
+          >
         </div>
         <p class="result-count">
           <strong>{filteredColors.length}</strong> {filteredColors.length === 1 ? 'color' : 'colors'} shown
@@ -410,7 +423,7 @@
                   aria-label={`View ${color.code} ${color.name}`}
                   title={`${color.code} — ${color.name} — ${color.hex}`}
                 >
-                  <span>{color.code.replace(/^(RAL|Sto|Herbol|Caparol)\s*/, '')}</span>
+                  <span>{color.code.replace(/^(RAL|Sto|Herbol|Caparol A1|Caparol)\s*/, '')}</span>
                 </button>
               {/each}
             </div>

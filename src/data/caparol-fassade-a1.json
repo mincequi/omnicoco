@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "3D Warmweiß",
+    "hex": "#E8E1DB"
+  },
+  {
+    "name": "3D Umbraweiß",
+    "hex": "#E9E3D9"
+  },
+  {
+    "name": "3D Naturweiß",
+    "hex": "#EEE8E0"
+  },
+  {
+    "name": "3D Hellweiß",
+    "hex": "#F3EFEA"
+  },
+  {
+    "name": "3D Grauweiß",
+    "hex": "#EEE9E4"
+  },
+  {
+    "name": "3D Kühlweiß",
+    "hex": "#EAE6E4"
+  },
+  {
+    "name": "3D Granit 5",
+    "hex": "#3E3D3D"
+  },
+  {
+    "name": "3D Granit 10",
+    "hex": "#525050"
+  },
+  {
+    "name": "3D Granit 20",
+    "hex": "#727070"
+  },
+  {
+    "name": "3D Granit 30",
+    "hex": "#8E8A8A"
+  },
+  {
+    "name": "3D Granit 40",
+    "hex": "#AAA4A3"
+  },
+  {
+    "name": "3D Granit 50",
+    "hex": "#C4C0BE"
+  },
+  {
+    "name": "3D Granit 60",
+    "hex": "#E0DEDB"
+  },
+  {
+    "name": "3D Ferro 5",
+    "hex": "#443D3D"
+  },
+  {
+    "name": "3D Ferro 15",
+    "hex": "#696462"
+  },
+  {
+    "name": "3D Ferro 25",
+    "hex": "#827B7A"
+  },
+  {
+    "name": "3D Ferro 35",
+    "hex": "#9B9592"
+  },
+  {
+    "name": "3D Ferro 45",
+    "hex": "#BAB3AF"
+  },
+  {
+    "name": "3D Ferro 55",
+    "hex": "#D4CFCC"
+  },
+  {
+    "name": "3D Jura 5",
+    "hex": "#3A3835"
+  },
+  {
+    "name": "3D Jura 15",
+    "hex": "#66615F"
+  },
+  {
+    "name": "3D Jura 25",
+    "hex": "#7F7C78"
+  },
+  {
+    "name": "3D Jura 35",
+    "hex": "#999490"
+  },
+  {
+    "name": "3D Jura 45",
+    "hex": "#B8B4AE"
+  },
+  {
+    "name": "3D Jura 55",
+    "hex": "#D2CFCA"
+  },
+  {
+    "name": "3D Venato 10",
+    "hex": "#4D5052"
+  },
+  {
+    "name": "3D Venato 20",
+    "hex": "#6E7272"
+  },
+  {
+    "name": "3D Venato 30",
+    "hex": "#8A8C8E"
+  },
+  {
+    "name": "3D Venato 40",
+    "hex": "#A4A7A7"
+  },
+  {
+    "name": "3D Venato 50",
+    "hex": "#C1C2C2"
+  },
+  {
+    "name": "3D Venato 60",
+    "hex": "#DEDEDE"
+  },
+  {
+    "name": "3D Bordeaux 35",
+    "hex": "#7F4A42"
+  },
+  {
+    "name": "3D Barolo 40",
+    "hex": "#815354"
+  },
+  {
+    "name": "3D Barolo 50",
+    "hex": "#AB8D8A"
+  },
+  {
+    "name": "3D Barolo 55",
+    "hex": "#C4ABA9"
+  },
+  {
+    "name": "3D Barolo 75",
+    "hex": "#A76E6F"
+  },
+  {
+    "name": "3D Barolo 80",
+    "hex": "#B98F8C"
+  },
+  {
+    "name": "3D Barolo 85",
+    "hex": "#CFAEAC"
+  },
+  {
+    "name": "3D Grenadin 5",
+    "hex": "#523634"
+  },
+  {
+    "name": "3D Grenadin 10",
+    "hex": "#6E5451"
+  },
+  {
+    "name": "3D Grenadin 15",
+    "hex": "#87706C"
+  },
+  {
+    "name": "3D Grenadin 20",
+    "hex": "#A08A88"
+  },
+  {
+    "name": "3D Grenadin 25",
+    "hex": "#B8AAA6"
+  },
+  {
+    "name": "3D Grenadin 30",
+    "hex": "#D8CDCB"
+  },
+  {
+    "name": "3D Grenadin 35",
+    "hex": "#683732"
+  },
+  {
+    "name": "3D Grenadin 40",
+    "hex": "#825752"
+  },
+  {
+    "name": "3D Grenadin 45",
+    "hex": "#9A746E"
+  },
+  {
+    "name": "3D Grenadin 50",
+    "hex": "#AE8E8B"
+  },
+  {
+    "name": "3D Grenadin 55",
+    "hex": "#C7ADA9"
+  },
+  {
+    "name": "3D Grenadin 60",
+    "hex": "#E0D2CE"
+  },
+  {
+    "name": "3D Grenadin 65",
+    "hex": "#813630"
+  },
+  {
+    "name": "3D Grenadin 70",
+    "hex": "#985551"
+  },
+  {
+    "name": "3D Grenadin 75",
+    "hex": "#AC7870"
+  },
+  {
+    "name": "3D Grenadin 80",
+    "hex": "#BE918B"
+  },
+  {
+    "name": "3D Grenadin 85",
+    "hex": "#D1B1AC"
+  },
+  {
+    "name": "3D Grenadin 90",
+    "hex": "#EAD6D3"
+  },
+  {
+    "name": "3D Grenadin 100",
+    "hex": "#AC5652"
+  },
+  {
+    "name": "3D Grenadin 105",
+    "hex": "#BE7971"
+  },
+  {
+    "name": "3D Grenadin 110",
+    "hex": "#CE958E"
+  },
+  {
+    "name": "3D Bordeaux 5",
+    "hex": "#A7847D"
+  },
+  {
+    "name": "3D Bordeaux 10",
+    "hex": "#B9928A"
+  },
+  {
+    "name": "3D Bordeaux 15",
+    "hex": "#BBA19C"
+  },
+  {
+    "name": "3D Bordeaux 20",
+    "hex": "#C6B0AC"
+  },
+  {
+    "name": "3D Bordeaux 25",
+    "hex": "#DDD0CD"
+  },
+  {
+    "name": "3D Bordeaux 30",
+    "hex": "#F0E4E0"
+  },
+  {
+    "name": "3D Bordeaux 40",
+    "hex": "#9C645A"
+  },
+  {
+    "name": "3D Bordeaux 45",
+    "hex": "#B56E64"
+  },
+  {
+    "name": "3D Bordeaux 50",
+    "hex": "#BA7C73"
+  },
+  {
+    "name": "3D Magma 95",
+    "hex": "#9A4234"
+  },
+  {
+    "name": "3D Magma 5",
+    "hex": "#583E38"
+  },
+  {
+    "name": "3D Magma 10",
+    "hex": "#715853"
+  },
+  {
+    "name": "3D Magma 15",
+    "hex": "#8B7370"
+  },
+  {
+    "name": "3D Magma 20",
+    "hex": "#A18E8A"
+  },
+  {
+    "name": "3D Magma 25",
+    "hex": "#BAAAA6"
+  },
+  {
+    "name": "3D Magma 30",
+    "hex": "#D9CDC9"
+  },
+  {
+    "name": "3D Magma 35",
+    "hex": "#6F4237"
+  },
+  {
+    "name": "3D Magma 40",
+    "hex": "#875C54"
+  },
+  {
+    "name": "3D Magma 45",
+    "hex": "#A07A71"
+  },
+  {
+    "name": "3D Magma 50",
+    "hex": "#B19189"
+  },
+  {
+    "name": "3D Magma 55",
+    "hex": "#C9AFA9"
+  },
+  {
+    "name": "3D Magma 60",
+    "hex": "#E4D2CE"
+  },
+  {
+    "name": "3D Magma 65",
+    "hex": "#88453A"
+  },
+  {
+    "name": "3D Magma 75",
+    "hex": "#B07B6F"
+  },
+  {
+    "name": "3D Magma 80",
+    "hex": "#C0958A"
+  },
+  {
+    "name": "3D Magma 100",
+    "hex": "#AF5F51"
+  },
+  {
+    "name": "3D Magma 105",
+    "hex": "#C17F70"
+  },
+  {
+    "name": "3D Magma 110",
+    "hex": "#D1998C"
+  },
+  {
+    "name": "3D Cameo 5",
+    "hex": "#978682"
+  },
+  {
+    "name": "3D Cameo 10",
+    "hex": "#B4A6A3"
+  },
+  {
+    "name": "3D Cameo 15",
+    "hex": "#CCC3C0"
+  },
+  {
+    "name": "3D Cameo 35",
+    "hex": "#816C67"
+  },
+  {
+    "name": "3D Cameo 40",
+    "hex": "#A58D87"
+  },
+  {
+    "name": "3D Cameo 50",
+    "hex": "#C6AEA7"
+  },
+  {
+    "name": "3D Cameo 65",
+    "hex": "#8E6960"
+  },
+  {
+    "name": "3D Cameo 75",
+    "hex": "#CA9B90"
+  },
+  {
+    "name": "3D Cameo 80",
+    "hex": "#DBB9AF"
+  },
+  {
+    "name": "3D Cameo 95",
+    "hex": "#894E3F"
+  },
+  {
+    "name": "3D Cameo 100",
+    "hex": "#AF7667"
+  },
+  {
+    "name": "3D Cameo 110",
+    "hex": "#DFAA9C"
+  },
+  {
+    "name": "3D Cameo 125",
+    "hex": "#A34F3D"
+  },
+  {
+    "name": "3D Cameo 130",
+    "hex": "#AE6254"
+  },
+  {
+    "name": "3D Cameo 135",
+    "hex": "#C97B69"
+  },
+  {
+    "name": "3D Lachs 35",
+    "hex": "#B67C69"
+  },
+  {
+    "name": "3D Lachs 45",
+    "hex": "#CCA092"
+  },
+  {
+    "name": "3D Lachs 55",
+    "hex": "#EEBAAD"
+  },
+  {
+    "name": "3D Lachs 65",
+    "hex": "#AA6149"
+  },
+  {
+    "name": "3D Lachs 70",
+    "hex": "#D17B5B"
+  },
+  {
+    "name": "3D Lachs 75",
+    "hex": "#DB8968"
+  },
+  {
+    "name": "3D Aprico 5",
+    "hex": "#B0968B"
+  },
+  {
+    "name": "3D Aprico 10",
+    "hex": "#BEA59B"
+  },
+  {
+    "name": "3D Aprico 15",
+    "hex": "#D4C4BC"
+  },
+  {
+    "name": "3D Aprico 35",
+    "hex": "#906D60"
+  },
+  {
+    "name": "3D Aprico 40",
+    "hex": "#A78678"
+  },
+  {
+    "name": "3D Aprico 45",
+    "hex": "#D7AD9F"
+  },
+  {
+    "name": "3D Aprico 95",
+    "hex": "#A06C55"
+  },
+  {
+    "name": "3D Aprico 105",
+    "hex": "#C58D75"
+  },
+  {
+    "name": "3D Aprico 110",
+    "hex": "#E39977"
+  },
+  {
+    "name": "3D Aprico 125",
+    "hex": "#C5643A"
+  },
+  {
+    "name": "3D Aprico 130",
+    "hex": "#D67E54"
+  },
+  {
+    "name": "3D Aprico 135",
+    "hex": "#CB7B5A"
+  },
+  {
+    "name": "3D Papaya 95",
+    "hex": "#D4733E"
+  },
+  {
+    "name": "3D Papaya 10",
+    "hex": "#7E695E"
+  },
+  {
+    "name": "3D Papaya 20",
+    "hex": "#A9968E"
+  },
+  {
+    "name": "3D Papaya 30",
+    "hex": "#DECDC7"
+  },
+  {
+    "name": "3D Papaya 40",
+    "hex": "#A1735C"
+  },
+  {
+    "name": "3D Papaya 50",
+    "hex": "#BF9D8C"
+  },
+  {
+    "name": "3D Papaya 60",
+    "hex": "#E7D1C6"
+  },
+  {
+    "name": "3D Papaya 65",
+    "hex": "#B1683D"
+  },
+  {
+    "name": "3D Papaya 75",
+    "hex": "#CC9373"
+  },
+  {
+    "name": "3D Papaya 85",
+    "hex": "#E2BBA8"
+  },
+  {
+    "name": "3D Papaya 100",
+    "hex": "#DF8856"
+  },
+  {
+    "name": "3D Papaya 105",
+    "hex": "#E5996E"
+  },
+  {
+    "name": "3D Papaya 110",
+    "hex": "#EAAC89"
+  },
+  {
+    "name": "3D Ceramic 10",
+    "hex": "#A58875"
+  },
+  {
+    "name": "3D Ceramic 20",
+    "hex": "#BBA598"
+  },
+  {
+    "name": "3D Ceramic 30",
+    "hex": "#D7C5BD"
+  },
+  {
+    "name": "3D Ceramic 35",
+    "hex": "#C6A18B"
+  },
+  {
+    "name": "3D Ceramic 40",
+    "hex": "#D3B09D"
+  },
+  {
+    "name": "3D Ceramic 55",
+    "hex": "#E0C4B3"
+  },
+  {
+    "name": "3D Ceramic 65",
+    "hex": "#C59575"
+  },
+  {
+    "name": "3D Ceramic 70",
+    "hex": "#E0AC8B"
+  },
+  {
+    "name": "3D Ceramic 75",
+    "hex": "#F5CCB0"
+  },
+  {
+    "name": "3D Amber 20",
+    "hex": "#AA978C"
+  },
+  {
+    "name": "3D Amber 25",
+    "hex": "#BFB1A7"
+  },
+  {
+    "name": "3D Amber 30",
+    "hex": "#DECFC8"
+  },
+  {
+    "name": "3D Amber 40",
+    "hex": "#9F7758"
+  },
+  {
+    "name": "3D Amber 50",
+    "hex": "#C19F89"
+  },
+  {
+    "name": "3D Amber 60",
+    "hex": "#E8D3C6"
+  },
+  {
+    "name": "3D Amber 65",
+    "hex": "#B06E34"
+  },
+  {
+    "name": "3D Amber 75",
+    "hex": "#CC946A"
+  },
+  {
+    "name": "3D Amber 85",
+    "hex": "#E2BEA2"
+  },
+  {
+    "name": "3D Amber 95",
+    "hex": "#D97D30"
+  },
+  {
+    "name": "3D Amber 105",
+    "hex": "#E5A366"
+  },
+  {
+    "name": "3D Amber 115",
+    "hex": "#F3C5A0"
+  },
+  {
+    "name": "3D Siena 5",
+    "hex": "#7A675A"
+  },
+  {
+    "name": "3D Siena 10",
+    "hex": "#8F7F73"
+  },
+  {
+    "name": "3D Siena 15",
+    "hex": "#A6988E"
+  },
+  {
+    "name": "3D Siena 20",
+    "hex": "#C1B5AF"
+  },
+  {
+    "name": "3D Siena 25",
+    "hex": "#DCD3CF"
+  },
+  {
+    "name": "3D Siena 30",
+    "hex": "#EBE4E0"
+  },
+  {
+    "name": "3D Siena 35",
+    "hex": "#8F7665"
+  },
+  {
+    "name": "3D Siena 45",
+    "hex": "#C1AC9E"
+  },
+  {
+    "name": "3D Siena 50",
+    "hex": "#D9C9BD"
+  },
+  {
+    "name": "3D Siena 80",
+    "hex": "#B29279"
+  },
+  {
+    "name": "3D Siena 85",
+    "hex": "#CFB4A0"
+  },
+  {
+    "name": "3D Siena 90",
+    "hex": "#ECCDB7"
+  },
+  {
+    "name": "3D Siena 125",
+    "hex": "#D1965D"
+  },
+  {
+    "name": "3D Siena 130",
+    "hex": "#C4946A"
+  },
+  {
+    "name": "3D Siena 135",
+    "hex": "#E0AD82"
+  },
+  {
+    "name": "3D Onyx 220",
+    "hex": "#EF9A33"
+  },
+  {
+    "name": "3D Onyx 5",
+    "hex": "#ABA19B"
+  },
+  {
+    "name": "3D Onyx 15",
+    "hex": "#C7BEB9"
+  },
+  {
+    "name": "3D Onyx 25",
+    "hex": "#D4CBC7"
+  },
+  {
+    "name": "3D Onyx 35",
+    "hex": "#786D63"
+  },
+  {
+    "name": "3D Onyx 40",
+    "hex": "#93877C"
+  },
+  {
+    "name": "3D Onyx 45",
+    "hex": "#B6ABA0"
+  },
+  {
+    "name": "3D Onyx 70",
+    "hex": "#CEBCAB"
+  },
+  {
+    "name": "3D Onyx 80",
+    "hex": "#E6D2C0"
+  },
+  {
+    "name": "3D Onyx 90",
+    "hex": "#FAECDE"
+  },
+  {
+    "name": "3D Onyx 100",
+    "hex": "#B6997C"
+  },
+  {
+    "name": "3D Onyx 105",
+    "hex": "#D6B28E"
+  },
+  {
+    "name": "3D Onyx 115",
+    "hex": "#EBD2BA"
+  },
+  {
+    "name": "3D Onyx 130",
+    "hex": "#D2A575"
+  },
+  {
+    "name": "3D Onyx 140",
+    "hex": "#ECC9A4"
+  },
+  {
+    "name": "3D Onyx 145",
+    "hex": "#F6D8BA"
+  },
+  {
+    "name": "3D Onyx 155",
+    "hex": "#B98547"
+  },
+  {
+    "name": "3D Onyx 165",
+    "hex": "#E5AD78"
+  },
+  {
+    "name": "3D Onyx 170",
+    "hex": "#F2BE85"
+  },
+  {
+    "name": "3D Marill 15",
+    "hex": "#928475"
+  },
+  {
+    "name": "3D Marill 25",
+    "hex": "#C1B4A8"
+  },
+  {
+    "name": "3D Marill 30",
+    "hex": "#DED4C9"
+  },
+  {
+    "name": "3D Marill 40",
+    "hex": "#957D5A"
+  },
+  {
+    "name": "3D Marill 50",
+    "hex": "#BAA48A"
+  },
+  {
+    "name": "3D Marill 60",
+    "hex": "#E8D9C9"
+  },
+  {
+    "name": "3D Marill 65",
+    "hex": "#AD813E"
+  },
+  {
+    "name": "3D Marill 75",
+    "hex": "#CAA472"
+  },
+  {
+    "name": "3D Marill 85",
+    "hex": "#E2C5A1"
+  },
+  {
+    "name": "3D Marill 95",
+    "hex": "#DA9F3B"
+  },
+  {
+    "name": "3D Marill 100",
+    "hex": "#E1AB56"
+  },
+  {
+    "name": "3D Marill 105",
+    "hex": "#EDBB71"
+  },
+  {
+    "name": "3D Marill 110",
+    "hex": "#EDC383"
+  },
+  {
+    "name": "3D Marill 115",
+    "hex": "#F3CE9D"
+  },
+  {
+    "name": "3D Marill 120",
+    "hex": "#FFE3C3"
+  },
+  {
+    "name": "3D Palazzo 35",
+    "hex": "#827C73"
+  },
+  {
+    "name": "3D Palazzo 45",
+    "hex": "#BCB5AC"
+  },
+  {
+    "name": "3D Palazzo 55",
+    "hex": "#E2D7CD"
+  },
+  {
+    "name": "3D Palazzo 95",
+    "hex": "#867C70"
+  },
+  {
+    "name": "3D Palazzo 110",
+    "hex": "#B4A99C"
+  },
+  {
+    "name": "3D Palazzo 115",
+    "hex": "#D8CDC1"
+  },
+  {
+    "name": "3D Palazzo 130",
+    "hex": "#6F6353"
+  },
+  {
+    "name": "3D Palazzo 140",
+    "hex": "#AC9B85"
+  },
+  {
+    "name": "3D Palazzo 150",
+    "hex": "#E0CEB6"
+  },
+  {
+    "name": "3D Palazzo 170",
+    "hex": "#CEBB9C"
+  },
+  {
+    "name": "3D Palazzo 175",
+    "hex": "#E9D2B2"
+  },
+  {
+    "name": "3D Palazzo 180",
+    "hex": "#FCEAD2"
+  },
+  {
+    "name": "3D Palazzo 195",
+    "hex": "#B49D75"
+  },
+  {
+    "name": "3D Palazzo 205",
+    "hex": "#E1C299"
+  },
+  {
+    "name": "3D Palazzo 210",
+    "hex": "#FAE6C6"
+  },
+  {
+    "name": "3D Palazzo 225",
+    "hex": "#D5B486"
+  },
+  {
+    "name": "3D Palazzo 230",
+    "hex": "#F5D19D"
+  },
+  {
+    "name": "3D Palazzo 240",
+    "hex": "#FAEEDB"
+  },
+  {
+    "name": "3D Palazzo 255",
+    "hex": "#D3A964"
+  },
+  {
+    "name": "3D Palazzo 260",
+    "hex": "#E0B97C"
+  },
+  {
+    "name": "3D Palazzo 265",
+    "hex": "#F9CE8C"
+  },
+  {
+    "name": "3D Palazzo 285",
+    "hex": "#CFA24A"
+  },
+  {
+    "name": "3D Palazzo 290",
+    "hex": "#DDAC57"
+  },
+  {
+    "name": "3D Palazzo 295",
+    "hex": "#EFBF71"
+  },
+  {
+    "name": "3D Palazzo 335",
+    "hex": "#BC8920"
+  },
+  {
+    "name": "3D Palazzo 340",
+    "hex": "#CC9524"
+  },
+  {
+    "name": "3D Palazzo 345",
+    "hex": "#E2AF29"
+  },
+  {
+    "name": "3D Ginster 140",
+    "hex": "#F9D06C"
+  },
+  {
+    "name": "3D Curcuma 15",
+    "hex": "#9B8A73"
+  },
+  {
+    "name": "3D Curcuma 25",
+    "hex": "#C6BAAA"
+  },
+  {
+    "name": "3D Curcuma 30",
+    "hex": "#E2DACF"
+  },
+  {
+    "name": "3D Curcuma 40",
+    "hex": "#A78D50"
+  },
+  {
+    "name": "3D Curcuma 50",
+    "hex": "#C5B087"
+  },
+  {
+    "name": "3D Curcuma 55",
+    "hex": "#D6C6A9"
+  },
+  {
+    "name": "3D Curcuma 65",
+    "hex": "#CD9E1D"
+  },
+  {
+    "name": "3D Curcuma 70",
+    "hex": "#D6AD4C"
+  },
+  {
+    "name": "3D Curcuma 75",
+    "hex": "#DEB868"
+  },
+  {
+    "name": "3D Curcuma 80",
+    "hex": "#E4C584"
+  },
+  {
+    "name": "3D Curcuma 85",
+    "hex": "#E9D1A6"
+  },
+  {
+    "name": "3D Curcuma 90",
+    "hex": "#F0E1C8"
+  },
+  {
+    "name": "3D Ginster 5",
+    "hex": "#AEA18E"
+  },
+  {
+    "name": "3D Ginster 15",
+    "hex": "#CBC0B2"
+  },
+  {
+    "name": "3D Ginster 25",
+    "hex": "#ECE4DB"
+  },
+  {
+    "name": "3D Ginster 35",
+    "hex": "#87775A"
+  },
+  {
+    "name": "3D Ginster 45",
+    "hex": "#B5A78E"
+  },
+  {
+    "name": "3D Ginster 55",
+    "hex": "#E3D5BE"
+  },
+  {
+    "name": "3D Ginster 75",
+    "hex": "#CDBC99"
+  },
+  {
+    "name": "3D Ginster 80",
+    "hex": "#DFCBA4"
+  },
+  {
+    "name": "3D Ginster 85",
+    "hex": "#F1DEB9"
+  },
+  {
+    "name": "3D Ginster 95",
+    "hex": "#D9BB88"
+  },
+  {
+    "name": "3D Ginster 100",
+    "hex": "#E6C37E"
+  },
+  {
+    "name": "3D Ginster 105",
+    "hex": "#F9D38D"
+  },
+  {
+    "name": "3D Ginster 110",
+    "hex": "#F2D492"
+  },
+  {
+    "name": "3D Ginster 115",
+    "hex": "#F5DCAD"
+  },
+  {
+    "name": "3D Ginster 120",
+    "hex": "#FFEBC3"
+  },
+  {
+    "name": "3D Curry 5",
+    "hex": "#B8AC8F"
+  },
+  {
+    "name": "3D Curry 15",
+    "hex": "#DDD4C1"
+  },
+  {
+    "name": "3D Curry 25",
+    "hex": "#F3EADA"
+  },
+  {
+    "name": "3D Curry 45",
+    "hex": "#D8C79A"
+  },
+  {
+    "name": "3D Curry 50",
+    "hex": "#E8DBB9"
+  },
+  {
+    "name": "3D Curry 55",
+    "hex": "#F7EACF"
+  },
+  {
+    "name": "3D Curry 65",
+    "hex": "#BAA76D"
+  },
+  {
+    "name": "3D Curry 70",
+    "hex": "#D3BF7D"
+  },
+  {
+    "name": "3D Curry 75",
+    "hex": "#E2CE99"
+  },
+  {
+    "name": "3D Curry 80",
+    "hex": "#F0DCAF"
+  },
+  {
+    "name": "3D Curry 85",
+    "hex": "#FBEABF"
+  },
+  {
+    "name": "3D Curry 90",
+    "hex": "#FFF1C8"
+  },
+  {
+    "name": "3D Curry 105",
+    "hex": "#E4C879"
+  },
+  {
+    "name": "3D Curry 110",
+    "hex": "#EFD591"
+  },
+  {
+    "name": "3D Curry 120",
+    "hex": "#FFEBB0"
+  },
+  {
+    "name": "3D Curry 130",
+    "hex": "#E4C32C"
+  },
+  {
+    "name": "3D Curry 135",
+    "hex": "#EED168"
+  },
+  {
+    "name": "3D Curry 140",
+    "hex": "#FADA5F"
+  },
+  {
+    "name": "3D Citrus 10",
+    "hex": "#7C7254"
+  },
+  {
+    "name": "3D Citrus 20",
+    "hex": "#ADA28E"
+  },
+  {
+    "name": "3D Citrus 25",
+    "hex": "#C6BFAC"
+  },
+  {
+    "name": "3D Citrus 45",
+    "hex": "#BAAB6C"
+  },
+  {
+    "name": "3D Citrus 50",
+    "hex": "#C9BC88"
+  },
+  {
+    "name": "3D Citrus 55",
+    "hex": "#DBCFA5"
+  },
+  {
+    "name": "3D Citrus 80",
+    "hex": "#EBD886"
+  },
+  {
+    "name": "3D Citrus 85",
+    "hex": "#F3E3A0"
+  },
+  {
+    "name": "3D Citrus 90",
+    "hex": "#FBEEBF"
+  },
+  {
+    "name": "3D Melisse 35",
+    "hex": "#B1A686"
+  },
+  {
+    "name": "3D Melisse 40",
+    "hex": "#CCC6AA"
+  },
+  {
+    "name": "3D Melisse 50",
+    "hex": "#E7DFC5"
+  },
+  {
+    "name": "3D Melisse 75",
+    "hex": "#B6A974"
+  },
+  {
+    "name": "3D Melisse 80",
+    "hex": "#DACD97"
+  },
+  {
+    "name": "3D Melisse 90",
+    "hex": "#FAF0D3"
+  },
+  {
+    "name": "3D Melisse 110",
+    "hex": "#F3DF51"
+  },
+  {
+    "name": "3D Melisse 115",
+    "hex": "#F8E975"
+  },
+  {
+    "name": "3D Melisse 120",
+    "hex": "#FBEFC3"
+  },
+  {
+    "name": "3D Tundra 130",
+    "hex": "#C4BD47"
+  },
+  {
+    "name": "3D Tundra 5",
+    "hex": "#585753"
+  },
+  {
+    "name": "3D Tundra 10",
+    "hex": "#767266"
+  },
+  {
+    "name": "3D Tundra 15",
+    "hex": "#8D877C"
+  },
+  {
+    "name": "3D Tundra 20",
+    "hex": "#BBB6A9"
+  },
+  {
+    "name": "3D Tundra 25",
+    "hex": "#E4DED0"
+  },
+  {
+    "name": "3D Tundra 30",
+    "hex": "#F4ECE0"
+  },
+  {
+    "name": "3D Tundra 35",
+    "hex": "#A59F85"
+  },
+  {
+    "name": "3D Tundra 45",
+    "hex": "#CDC7B0"
+  },
+  {
+    "name": "3D Tundra 55",
+    "hex": "#F1E9D5"
+  },
+  {
+    "name": "3D Tundra 75",
+    "hex": "#80805C"
+  },
+  {
+    "name": "3D Tundra 85",
+    "hex": "#B1AA88"
+  },
+  {
+    "name": "3D Tundra 90",
+    "hex": "#E4DBBA"
+  },
+  {
+    "name": "3D Tundra 125",
+    "hex": "#9B9A3D"
+  },
+  {
+    "name": "3D Tundra 135",
+    "hex": "#D2CB49"
+  },
+  {
+    "name": "3D Tundra 145",
+    "hex": "#F3EA70"
+  },
+  {
+    "name": "3D Mai 15",
+    "hex": "#A7A49A"
+  },
+  {
+    "name": "3D Mai 20",
+    "hex": "#C4BFB5"
+  },
+  {
+    "name": "3D Mai 25",
+    "hex": "#DDD8CD"
+  },
+  {
+    "name": "3D Mai 35",
+    "hex": "#807D66"
+  },
+  {
+    "name": "3D Mai 45",
+    "hex": "#B7B29B"
+  },
+  {
+    "name": "3D Mai 55",
+    "hex": "#E7DFC7"
+  },
+  {
+    "name": "3D Mai 70",
+    "hex": "#A9B350"
+  },
+  {
+    "name": "3D Mai 80",
+    "hex": "#C5CD5C"
+  },
+  {
+    "name": "3D Mai 85",
+    "hex": "#D5DE8C"
+  },
+  {
+    "name": "3D Jade 35",
+    "hex": "#8C8C85"
+  },
+  {
+    "name": "3D Jade 45",
+    "hex": "#BCBAAC"
+  },
+  {
+    "name": "3D Jade 55",
+    "hex": "#D9D5CD"
+  },
+  {
+    "name": "3D Jade 65",
+    "hex": "#7E7E61"
+  },
+  {
+    "name": "3D Jade 70",
+    "hex": "#9E9E89"
+  },
+  {
+    "name": "3D Jade 75",
+    "hex": "#B8B8A0"
+  },
+  {
+    "name": "3D Jade 80",
+    "hex": "#CBD0AF"
+  },
+  {
+    "name": "3D Jade 85",
+    "hex": "#E0DFC4"
+  },
+  {
+    "name": "3D Jade 90",
+    "hex": "#F1EDD8"
+  },
+  {
+    "name": "3D Jade 95",
+    "hex": "#697049"
+  },
+  {
+    "name": "3D Jade 100",
+    "hex": "#99A077"
+  },
+  {
+    "name": "3D Jade 105",
+    "hex": "#B4BB8B"
+  },
+  {
+    "name": "3D Jade 110",
+    "hex": "#D6D9A9"
+  },
+  {
+    "name": "3D Jade 115",
+    "hex": "#DAE1AB"
+  },
+  {
+    "name": "3D Jade 120",
+    "hex": "#E7EDA7"
+  },
+  {
+    "name": "3D Pinie 40",
+    "hex": "#778254"
+  },
+  {
+    "name": "3D Pinie 50",
+    "hex": "#A5B08C"
+  },
+  {
+    "name": "3D Pinie 60",
+    "hex": "#E0E1CA"
+  },
+  {
+    "name": "3D Pinie 100",
+    "hex": "#8DB044"
+  },
+  {
+    "name": "3D Pinie 110",
+    "hex": "#B8CB82"
+  },
+  {
+    "name": "3D Pinie 120",
+    "hex": "#E4ECC1"
+  },
+  {
+    "name": "3D Moos 5",
+    "hex": "#565851"
+  },
+  {
+    "name": "3D Moos 15",
+    "hex": "#86857F"
+  },
+  {
+    "name": "3D Moos 20",
+    "hex": "#A2A09D"
+  },
+  {
+    "name": "3D Moos 40",
+    "hex": "#A3A697"
+  },
+  {
+    "name": "3D Moos 50",
+    "hex": "#BBBAAF"
+  },
+  {
+    "name": "3D Moos 60",
+    "hex": "#E0E1D3"
+  },
+  {
+    "name": "3D Moos 65",
+    "hex": "#798367"
+  },
+  {
+    "name": "3D Moos 75",
+    "hex": "#AAAE99"
+  },
+  {
+    "name": "3D Moos 80",
+    "hex": "#C2C8B2"
+  },
+  {
+    "name": "3D Oase 135",
+    "hex": "#79A467"
+  },
+  {
+    "name": "3D Oase 45",
+    "hex": "#717E65"
+  },
+  {
+    "name": "3D Oase 50",
+    "hex": "#ADB9A3"
+  },
+  {
+    "name": "3D Oase 55",
+    "hex": "#D5D7CD"
+  },
+  {
+    "name": "3D Oase 75",
+    "hex": "#8B9D7E"
+  },
+  {
+    "name": "3D Oase 80",
+    "hex": "#C1C9B6"
+  },
+  {
+    "name": "3D Oase 90",
+    "hex": "#E7E9DC"
+  },
+  {
+    "name": "3D Oase 100",
+    "hex": "#54774C"
+  },
+  {
+    "name": "3D Oase 110",
+    "hex": "#9FC18D"
+  },
+  {
+    "name": "3D Oase 120",
+    "hex": "#E7F3D7"
+  },
+  {
+    "name": "3D Agave 10",
+    "hex": "#8F908B"
+  },
+  {
+    "name": "3D Agave 20",
+    "hex": "#C5C5BF"
+  },
+  {
+    "name": "3D Agave 25",
+    "hex": "#D4D5CF"
+  },
+  {
+    "name": "3D Agave 35",
+    "hex": "#828E7E"
+  },
+  {
+    "name": "3D Agave 40",
+    "hex": "#A5AEA1"
+  },
+  {
+    "name": "3D Agave 45",
+    "hex": "#C2C7BD"
+  },
+  {
+    "name": "3D Agave 50",
+    "hex": "#DBDED4"
+  },
+  {
+    "name": "3D Agave 55",
+    "hex": "#E8EAE3"
+  },
+  {
+    "name": "3D Agave 60",
+    "hex": "#F4F2EB"
+  },
+  {
+    "name": "3D Agave 65",
+    "hex": "#899E82"
+  },
+  {
+    "name": "3D Agave 75",
+    "hex": "#ABBCA7"
+  },
+  {
+    "name": "3D Agave 85",
+    "hex": "#CFD9CA"
+  },
+  {
+    "name": "3D Malachit 5",
+    "hex": "#415247"
+  },
+  {
+    "name": "3D Malachit 10",
+    "hex": "#5C6C5F"
+  },
+  {
+    "name": "3D Malachit 15",
+    "hex": "#768479"
+  },
+  {
+    "name": "3D Malachit 20",
+    "hex": "#939D94"
+  },
+  {
+    "name": "3D Malachit 25",
+    "hex": "#B1B8B0"
+  },
+  {
+    "name": "3D Malachit 30",
+    "hex": "#D2D8D1"
+  },
+  {
+    "name": "3D Malachit 40",
+    "hex": "#4D7059"
+  },
+  {
+    "name": "3D Malachit 50",
+    "hex": "#8BA793"
+  },
+  {
+    "name": "3D Malachit 60",
+    "hex": "#D2DFD5"
+  },
+  {
+    "name": "3D Malachit 75",
+    "hex": "#669579"
+  },
+  {
+    "name": "3D Malachit 85",
+    "hex": "#A7C6B2"
+  },
+  {
+    "name": "3D Malachit 90",
+    "hex": "#D2E6D7"
+  },
+  {
+    "name": "3D Malachit 105",
+    "hex": "#589B76"
+  },
+  {
+    "name": "3D Malachit 110",
+    "hex": "#7DB494"
+  },
+  {
+    "name": "3D Malachit 115",
+    "hex": "#A5CFB5"
+  },
+  {
+    "name": "3D Mint 5",
+    "hex": "#858A85"
+  },
+  {
+    "name": "3D Mint 10",
+    "hex": "#9EA69F"
+  },
+  {
+    "name": "3D Mint 15",
+    "hex": "#BFC7BF"
+  },
+  {
+    "name": "3D Mint 20",
+    "hex": "#D1D4CE"
+  },
+  {
+    "name": "3D Mint 25",
+    "hex": "#E1E1DC"
+  },
+  {
+    "name": "3D Mint 30",
+    "hex": "#F0EDE8"
+  },
+  {
+    "name": "3D Mint 40",
+    "hex": "#6A8974"
+  },
+  {
+    "name": "3D Mint 45",
+    "hex": "#849E8E"
+  },
+  {
+    "name": "3D Mint 55",
+    "hex": "#B9C9BE"
+  },
+  {
+    "name": "3D Verona 95",
+    "hex": "#2A767C"
+  },
+  {
+    "name": "3D Patina 5",
+    "hex": "#718C86"
+  },
+  {
+    "name": "3D Patina 15",
+    "hex": "#AAB9B4"
+  },
+  {
+    "name": "3D Patina 25",
+    "hex": "#D0D5D2"
+  },
+  {
+    "name": "3D Patina 50",
+    "hex": "#83938E"
+  },
+  {
+    "name": "3D Patina 55",
+    "hex": "#A7BDB8"
+  },
+  {
+    "name": "3D Patina 60",
+    "hex": "#C4D9D3"
+  },
+  {
+    "name": "3D Patina 70",
+    "hex": "#56766F"
+  },
+  {
+    "name": "3D Patina 75",
+    "hex": "#7B9E94"
+  },
+  {
+    "name": "3D Patina 80",
+    "hex": "#9FBDB5"
+  },
+  {
+    "name": "3D Verona 35",
+    "hex": "#525B5B"
+  },
+  {
+    "name": "3D Verona 40",
+    "hex": "#88908F"
+  },
+  {
+    "name": "3D Verona 45",
+    "hex": "#ACB2B1"
+  },
+  {
+    "name": "3D Verona 75",
+    "hex": "#798B8B"
+  },
+  {
+    "name": "3D Verona 80",
+    "hex": "#A0ACAC"
+  },
+  {
+    "name": "3D Verona 85",
+    "hex": "#C8D6D3"
+  },
+  {
+    "name": "3D Verona 105",
+    "hex": "#5C9195"
+  },
+  {
+    "name": "3D Verona 110",
+    "hex": "#91ADB0"
+  },
+  {
+    "name": "3D Verona 115",
+    "hex": "#A9CCCB"
+  },
+  {
+    "name": "3D Arctis 5",
+    "hex": "#5D6368"
+  },
+  {
+    "name": "3D Arctis 10",
+    "hex": "#787F84"
+  },
+  {
+    "name": "3D Arctis 15",
+    "hex": "#979C9F"
+  },
+  {
+    "name": "3D Arctis 20",
+    "hex": "#B1B7BA"
+  },
+  {
+    "name": "3D Arctis 25",
+    "hex": "#D2D6D7"
+  },
+  {
+    "name": "3D Arctis 30",
+    "hex": "#E5E5E4"
+  },
+  {
+    "name": "3D Arctis 35",
+    "hex": "#5B747D"
+  },
+  {
+    "name": "3D Arctis 40",
+    "hex": "#65737A"
+  },
+  {
+    "name": "3D Arctis 45",
+    "hex": "#7E8C91"
+  },
+  {
+    "name": "3D Arctis 50",
+    "hex": "#9EA9AC"
+  },
+  {
+    "name": "3D Arctis 55",
+    "hex": "#BFC7C8"
+  },
+  {
+    "name": "3D Arctis 60",
+    "hex": "#E3E8E7"
+  },
+  {
+    "name": "3D Arctis 65",
+    "hex": "#718E97"
+  },
+  {
+    "name": "3D Arctis 70",
+    "hex": "#92ACB2"
+  },
+  {
+    "name": "3D Arctis 80",
+    "hex": "#B6C8CD"
+  },
+  {
+    "name": "3D Arctis 95",
+    "hex": "#376A79"
+  },
+  {
+    "name": "3D Arctis 100",
+    "hex": "#60828F"
+  },
+  {
+    "name": "3D Arctis 105",
+    "hex": "#799FAA"
+  },
+  {
+    "name": "3D Lazur 165",
+    "hex": "#507199"
+  },
+  {
+    "name": "3D Coelin 35",
+    "hex": "#9DA9B2"
+  },
+  {
+    "name": "3D Coelin 45",
+    "hex": "#BDC7CC"
+  },
+  {
+    "name": "3D Coelin 55",
+    "hex": "#DFE4E7"
+  },
+  {
+    "name": "3D Coelin 65",
+    "hex": "#7AA1B3"
+  },
+  {
+    "name": "3D Coelin 75",
+    "hex": "#98BCCE"
+  },
+  {
+    "name": "3D Coelin 85",
+    "hex": "#B8D6E5"
+  },
+  {
+    "name": "3D Pacific 10",
+    "hex": "#52585F"
+  },
+  {
+    "name": "3D Pacific 15",
+    "hex": "#929AA0"
+  },
+  {
+    "name": "3D Pacific 20",
+    "hex": "#B0B4B6"
+  },
+  {
+    "name": "3D Pacific 45",
+    "hex": "#727E87"
+  },
+  {
+    "name": "3D Pacific 50",
+    "hex": "#B8BDC0"
+  },
+  {
+    "name": "3D Pacific 60",
+    "hex": "#E2E4E4"
+  },
+  {
+    "name": "3D Pacific 65",
+    "hex": "#939DA3"
+  },
+  {
+    "name": "3D Pacific 75",
+    "hex": "#9DAAB3"
+  },
+  {
+    "name": "3D Pacific 80",
+    "hex": "#B8C5CC"
+  },
+  {
+    "name": "3D Pacific 135",
+    "hex": "#597489"
+  },
+  {
+    "name": "3D Pacific 140",
+    "hex": "#738EA0"
+  },
+  {
+    "name": "3D Pacific 145",
+    "hex": "#90A9BA"
+  },
+  {
+    "name": "3D Lago 15",
+    "hex": "#6E767D"
+  },
+  {
+    "name": "3D Lago 25",
+    "hex": "#A9ADB1"
+  },
+  {
+    "name": "3D Lago 30",
+    "hex": "#CDCFD1"
+  },
+  {
+    "name": "3D Lago 45",
+    "hex": "#6C7D8C"
+  },
+  {
+    "name": "3D Lago 55",
+    "hex": "#ACB7C0"
+  },
+  {
+    "name": "3D Lago 60",
+    "hex": "#D1D8DF"
+  },
+  {
+    "name": "3D Lago 75",
+    "hex": "#6A849B"
+  },
+  {
+    "name": "3D Lago 80",
+    "hex": "#879FB1"
+  },
+  {
+    "name": "3D Lago 85",
+    "hex": "#AABDCC"
+  },
+  {
+    "name": "3D Lago 100",
+    "hex": "#3D7097"
+  },
+  {
+    "name": "3D Lago 105",
+    "hex": "#608BAD"
+  },
+  {
+    "name": "3D Lago 110",
+    "hex": "#86A7C2"
+  },
+  {
+    "name": "3D Lazur 75",
+    "hex": "#6C7281"
+  },
+  {
+    "name": "3D Lazur 85",
+    "hex": "#9EA7B4"
+  },
+  {
+    "name": "3D Lazur 90",
+    "hex": "#C2C9D6"
+  },
+  {
+    "name": "3D Lazur 105",
+    "hex": "#62728C"
+  },
+  {
+    "name": "3D Lazur 110",
+    "hex": "#818EA2"
+  },
+  {
+    "name": "3D Lazur 115",
+    "hex": "#A6B5C8"
+  },
+  {
+    "name": "3D Lazur 160",
+    "hex": "#43648B"
+  },
+  {
+    "name": "3D Lazur 170",
+    "hex": "#6C8DB5"
+  },
+  {
+    "name": "3D Lazur 180",
+    "hex": "#9FB5D2"
+  },
+  {
+    "name": "3D Lavendel 70",
+    "hex": "#61647E"
+  },
+  {
+    "name": "3D Saphir 5",
+    "hex": "#3A414C"
+  },
+  {
+    "name": "3D Saphir 10",
+    "hex": "#555B67"
+  },
+  {
+    "name": "3D Saphir 15",
+    "hex": "#72767F"
+  },
+  {
+    "name": "3D Saphir 20",
+    "hex": "#8E9199"
+  },
+  {
+    "name": "3D Saphir 25",
+    "hex": "#ACADB4"
+  },
+  {
+    "name": "3D Saphir 30",
+    "hex": "#D0D1D4"
+  },
+  {
+    "name": "3D Saphir 45",
+    "hex": "#747C8E"
+  },
+  {
+    "name": "3D Saphir 50",
+    "hex": "#9195A4"
+  },
+  {
+    "name": "3D Saphir 55",
+    "hex": "#B0B3C0"
+  },
+  {
+    "name": "3D Aquarell 65",
+    "hex": "#6A7088"
+  },
+  {
+    "name": "3D Aquarell 70",
+    "hex": "#848BA3"
+  },
+  {
+    "name": "3D Aquarell 75",
+    "hex": "#9FA7BD"
+  },
+  {
+    "name": "3D Lavendel 5",
+    "hex": "#8E8D95"
+  },
+  {
+    "name": "3D Lavendel 15",
+    "hex": "#B7B5BF"
+  },
+  {
+    "name": "3D Lavendel 25",
+    "hex": "#D7D4D8"
+  },
+  {
+    "name": "3D Lavendel 45",
+    "hex": "#72717B"
+  },
+  {
+    "name": "3D Lavendel 50",
+    "hex": "#9C9BA7"
+  },
+  {
+    "name": "3D Lavendel 55",
+    "hex": "#C7C6D2"
+  },
+  {
+    "name": "3D Velvet 20",
+    "hex": "#958C98"
+  },
+  {
+    "name": "3D Velvet 25",
+    "hex": "#B2AEB4"
+  },
+  {
+    "name": "3D Velvet 30",
+    "hex": "#D3CFD3"
+  },
+  {
+    "name": "3D Viola 5",
+    "hex": "#867985"
+  },
+  {
+    "name": "3D Viola 10",
+    "hex": "#A3989F"
+  },
+  {
+    "name": "3D Viola 15",
+    "hex": "#BCB4B9"
+  },
+  {
+    "name": "3D Flamenco 35",
+    "hex": "#816B70"
+  },
+  {
+    "name": "3D Flamenco 40",
+    "hex": "#9B888D"
+  },
+  {
+    "name": "3D Flamenco 50",
+    "hex": "#BAA7AC"
+  }
+]

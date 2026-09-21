@@ -2,6 +2,7 @@ import { classic } from 'ral-colors/RAL/classic.js'
 import stoSource from '../data/sto-colors.json'
 import herbolSource from '../data/herbol-farbe-und-architektur.json'
 import caparolCompactSource from '../data/caparolcolor-compact.json'
+import caparolFassadeA1Source from '../data/caparol-fassade-a1.json'
 
 type SourceColor = {
   description: string
@@ -16,7 +17,7 @@ type PaletteColor = {
   hex: string
 }
 
-export type ColorSystem = 'ral' | 'sto' | 'herbol' | 'caparol'
+export type ColorSystem = 'ral' | 'sto' | 'herbol' | 'caparol' | 'caparolA1'
 
 export type ColorEntry = {
   code: string
@@ -145,6 +146,23 @@ export const caparolCompactColors: ColorEntry[] = (caparolCompactSource as Palet
       lab: rgbToLab(rgb),
       group: family,
       system: 'caparol' as const,
+    }
+  })
+  .sort((a, b) => a.code.localeCompare(b.code, undefined, { numeric: true }))
+
+export const caparolFassadeA1Colors: ColorEntry[] = (caparolFassadeA1Source as PaletteColor[])
+  .map((color) => {
+    const rgb = hexToRgb(color.hex)
+    const family = color.name.replace(/\s+\d+$/i, '')
+
+    return {
+      code: `Caparol A1 ${color.name}`,
+      name: 'Fassade A1',
+      hex: color.hex.toUpperCase(),
+      rgb,
+      lab: rgbToLab(rgb),
+      group: family,
+      system: 'caparolA1' as const,
     }
   })
   .sort((a, b) => a.code.localeCompare(b.code, undefined, { numeric: true }))

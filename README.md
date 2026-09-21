@@ -13,6 +13,7 @@ system. Results use CIEDE2000 and show total Delta E plus lightness, chroma, and
 - 796 StoColor System colors
 - 360 Herbol Farbe & Architektur colors
 - 225 CaparolColor Compact colors
+- 500 Caparol Fassade A1 colors
 
 ## Features
 
@@ -49,5 +50,6 @@ affiliated with or endorsed by Herbol or AkzoNobel.
 
 The CaparolColor Compact screen values are sourced from the public
 [`Kissel Farben palette`](https://www.kissel-farben.de/farbmisch-center/caparolcolor-compact-farbkarte-cce_ccid-113.html).
+The Caparol Fassade A1 screen values were imported from a manufacturer color-value spreadsheet.
 Caparol is referenced only to identify the corresponding manufacturer palette; Omnicoco is not
 affiliated with or endorsed by Caparol.

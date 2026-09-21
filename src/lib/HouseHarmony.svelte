@@ -2,6 +2,7 @@
   import { onMount } from 'svelte'
   import {
     caparolCompactColors,
+    caparolFassadeA1Colors,
     herbolColors,
     ralColors,
     stoColors,
@@ -10,7 +11,13 @@
   import { deltaE2000 } from './color-math'
 
   const HOUSE_SETTINGS_KEY = 'omnicoco:house:v1'
-  const allColors = [...ralColors, ...stoColors, ...herbolColors, ...caparolCompactColors]
+  const allColors = [
+    ...ralColors,
+    ...stoColors,
+    ...herbolColors,
+    ...caparolCompactColors,
+    ...caparolFassadeA1Colors,
+  ]
 
   let facade = $state(findColor('Sto 31435'))
   let roof = $state(findColor('RAL 7016'))
